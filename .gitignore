@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+outputs/
+*.keras
+*.joblib
+data/creditcard.csv
+data/creditcard.zip
+data/creditcard_extracted/
+data/creditcard_csv_data/
+.DS_Store
